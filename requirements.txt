@@ -16,7 +16,7 @@ keras>=3.11.3
 
 # Econometric Models
 scipy>=1.15.3
-biogeme=3.2.13
+biogeme==3.2.13
 
 # Interpretability & Analysis
 shap>=0.50.0
@@ -24,3 +24,4 @@ scikit-optimize>=0.10.2
 
 # Utilities
 openpyxl>=3.1.5
+
